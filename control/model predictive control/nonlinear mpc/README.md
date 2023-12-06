@@ -1,1 +1,0 @@
-# Nonlinear MPC Simulation (using MATLAB)
